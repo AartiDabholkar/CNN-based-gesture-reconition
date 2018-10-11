@@ -5,4 +5,4 @@ Firsly I have created a dataset comprising of 25 ASL Letters.Then i have split t
 Next i have used the VGG16 arhitecture to build Deep learning into CNN.
 So I gave path for training data,passed it to CNN for training.
 Based on the training,CNN will perform classification and will correctly predict the letter for the given sign image.
-The output is shown in Text as a Letter ans well in Audio.
+The output is shown in Text as a "Letter" as well in "Audio".
